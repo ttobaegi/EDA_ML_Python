@@ -1,7 +1,7 @@
 
 ## Python EDA 
 
-### 1. Finance Analysis
+#### 1. Finance Analysis
 ### 2. Web Analysis
       - SparkSQL
 ### 3. Credit Card Customer Churn, Attrition Prediction (Kaggle)
