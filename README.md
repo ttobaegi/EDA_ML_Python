@@ -1,4 +1,5 @@
 
 ## Python EDA 
 
-1. 
+1. Finance Project
+2. 
