@@ -2,13 +2,13 @@
 ## Python EDA 
 
 #### 1. Finance Analysis
-### 2. Web Analysis
+#### 2. Web Analysis
       - SparkSQL
-### 3. Credit Card Customer Churn, Attrition Prediction (Kaggle)
-### 4. Customer Analysis
+#### 3. Credit Card Customer Churn, Attrition Prediction (Kaggle)
+#### 4. Customer Analysis
       - CLV, AttritionPatterns
       - Clustering
-### 5. Google Analytics for marketing
-### 6. Movie Data Analytics 
+#### 5. Google Analytics for marketing
+#### 6. Movie Data Analytics 
       - Content-based-recommendation-system
       - Cosine Similarity
