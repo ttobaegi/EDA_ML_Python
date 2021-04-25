@@ -5,6 +5,7 @@
 #### 2. Web Analysis
       - SparkSQL
 #### 3. Credit Card Customer Churn, Attrition Prediction (Kaggle)
+      - Classification : Logistic Regression, Random Forest, XGBoost, KNN
 #### 4. Customer Analysis
       - CLV, AttritionPatterns
       - Clustering
