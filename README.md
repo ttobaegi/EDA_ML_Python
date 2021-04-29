@@ -2,7 +2,7 @@
 ## Python EDA 
 
 #### 1. Finance Analysis
-#### 2. Web Analysis
+#### 2. Web Analysis (Ecommerce log data)
       - SparkSQL
 #### 3. Credit Card Customer Churn, Attrition Prediction (Kaggle)
       - Classification : Logistic Regression, Random Forest, XGBoost, KNN
