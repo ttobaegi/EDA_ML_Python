@@ -7,7 +7,7 @@
 #### 3. Credit Card Customer Churn, Attrition Prediction (Kaggle)
       - Classification : Logistic Regression, Random Forest, XGBoost, KNN
 #### 4. Customer Analysis
-      - CLV, AttritionPatterns
+      - CLV, Attrition Patterns
       - Clustering
 #### 5. Google Analytics for marketing
 #### 6. Movie Data Analytics 
@@ -15,5 +15,5 @@
       - Cosine Similarity
 #### 7. Movie Data Analytics 
 #### 8. CustomerSegmentation_RFM
-      - RFM : Recency Frequency Monetary
+      - Ecommerce Customer Segmentation Based on RFM(Recency Frequency Monetary) Score
 
