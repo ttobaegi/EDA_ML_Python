@@ -13,3 +13,7 @@
 #### 6. Movie Data Analytics 
       - Content-based-recommendation-system
       - Cosine Similarity
+#### 7. Movie Data Analytics 
+#### 8. CustomerSegmentation_RFM
+      - RFM : Recency Frequency Monetary
+
