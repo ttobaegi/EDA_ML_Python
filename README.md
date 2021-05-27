@@ -1,5 +1,5 @@
 
-## Python EDA 
+## Data Analytics _ Python
 
 #### 1. Finance Analysis
 #### 2. Web Analysis (Ecommerce log data)
