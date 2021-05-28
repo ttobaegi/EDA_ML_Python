@@ -5,9 +5,8 @@
       
       - SparkSQL
 * Credit Card Customer Churn/Attrition Prediction (Kaggle)
-
-      - EDA 
-      - Classification : Logistic Regression, Random Forest, XGBoost, KNN
+      [EDA](https://github.com/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/CreditCardCustomerChurn_EDA.ipynb) 
+      [Classification : Logistic Regression, Random Forest, XGBoost, KNN](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/CreditCardCustomerChurn_Modeling.ipynb)
  
 * Customer Analysis
   
