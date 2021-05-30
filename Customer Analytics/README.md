@@ -6,7 +6,8 @@
 * Credit Card Customer Churn/Attrition Prediction
   * [EDA](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/CreditCardCustomerChurn_EDA.ipynb) 
   * [Classification : Logistic Regression, Random Forest, XGBoost, KNN](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/CreditCardCustomerChurn_Modeling.ipynb)
- 
+* Marketing Performance Analysis
+  * [Conversion rate by Channel](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/MarketingAnalysis_EDA.ipynb)  
 * Customer Analysis
   * [Clustering](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/CustomerAnalysis%28CLV%2CAttritionPatterns%2CClustering%29.ipynb)
 * CustomerSegmentation_RFM
