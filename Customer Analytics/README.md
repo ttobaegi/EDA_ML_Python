@@ -1,6 +1,6 @@
 
 ## Customer Analytics _ Python
->  Selfstudy projects for studying Customer Analytics
+>  **Selfstudy projects for studying Customer Analytics**
 
 </br>
 
