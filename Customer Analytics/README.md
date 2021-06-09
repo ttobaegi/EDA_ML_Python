@@ -7,6 +7,10 @@
 * [Web Analysis (Ecommerce log data)](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/WebAnalytics_Spark_EDA.ipynb)
 >  * SparkSQL를 활용하여 유저 Retention 분석
 >  * 이커머스 유저 세션 데이터 (6개월)
+>  * 태블로 시각화
+  >   <img src="https://github.com/ttobaegi/visualization/blob/main/Retention.gif" width="400" height="250">
+</br>
+</br>
 
 * Credit Card Customer Churn/Attrition Prediction
 >  * 신용카드 유저 이탈율 예측
