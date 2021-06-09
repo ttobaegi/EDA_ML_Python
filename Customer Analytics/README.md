@@ -23,6 +23,6 @@
 * [CustomerSegmentation_RFM](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/CustomerSegmentation_RFM.ipynb)
 >  * Ecommerce Customer Segmentation Based on RFM(Recency Frequency Monetary) Score
 
-* [Customer Lifetime Cycle ](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/CustomerAnalysis%28CLV%2CAttritionPatterns%2CClustering%29.ipynb)
->  * 진행중
+* [ABTest - Bayesian](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/ABTest_Bayesian_MobileAppUsers.ipynb)
+>  * 모바일 앱 유저 ABTEST
 
