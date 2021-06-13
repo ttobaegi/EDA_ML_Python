@@ -12,9 +12,6 @@
 </br>
 </br>
 
-* **[ABTest - Bayesian](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/ABTest_Bayesian_MobileAppUsers.ipynb)**
->  * 모바일 앱 유저 ABTEST
-</br>
 
 * **Credit Card Customer Churn/Attrition Prediction**
 >  * 신용카드 유저 이탈율 예측
@@ -28,4 +25,6 @@
 
 * **[CustomerSegmentation_RFM](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/CustomerSegmentation_RFM.ipynb)**
 >  * Ecommerce Customer Segmentation Based on RFM(Recency Frequency Monetary) Score
+
+
 
