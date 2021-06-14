@@ -16,7 +16,7 @@
 * **Credit Card Customer Churn/Attrition Prediction**
 >  * 신용카드 유저 이탈 예측
 >  * [EDA](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/CreditCardCustomerChurn_EDA.ipynb) 
->  * [Classification](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/CreditCardCustomerChurn_Modeling.ipynb)  : Logistic Regression, Random Forest, XGBoost, KNN
+>  * [Classification](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/CreditCardCustomerChurn_Modeling.ipynb)  : Logistic Regression, Random Forest, XGBoost
 </br>
 
 * **[Marketing Performance Analysis](https://nbviewer.jupyter.org/github/ttobaegi/Selfstudy_python/blob/main/Customer%20Analytics/MarketingAnalysis_EDA.ipynb)**
